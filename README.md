@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/sun_eeeee/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=for-the-badge&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.instagram.com/sun_eeeee/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=for-the-badge&logo=#E4405F&logoColor=#E4405F"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekeunsun&show_icons=true&theme=radical)
