@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![trophy](https://github-profile-trophy.vercel.app/?username=baekeunsun)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekeunsun&show_icons=true&theme=radical)
