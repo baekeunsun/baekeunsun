@@ -1,3 +1,5 @@
+<div align=center>
+
 ## 백은선입니다😉
 
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
+
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunsun5460)](https://solved.ac/eunsun5460/)   
    
