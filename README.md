@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunsun5460)](https://solved.ac/eunsun5460/)   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunsun5460)](https://solved.ac/eunsun5460/)   
    
 ![baekeunsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekeunsun&show_icons=true&theme=radical)
