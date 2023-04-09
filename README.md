@@ -1,5 +1,5 @@
 <div align="center">
-   <h3> 👻EUNSUN </h3>
+   <h3> 👻Hi! I'm EUNSUN </h3>
    <p><a href="https://eunsun-zizone-zzang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/MY BLOG-ED0086?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>   
      
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaekeunsun&count_bg=%23FF91D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80+visitor&edge_flat=true)](https://hits.seeyoufarm.com)
