@@ -13,7 +13,11 @@
       <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
       <img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white">
       <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
-      <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"></p>
+      <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white">
+      <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
+   </p>
    
    #
    ### 📑 top langs
