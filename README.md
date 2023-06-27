@@ -22,12 +22,6 @@
    #
    ### 📑 top langs
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekeunsun&layout=compact&theme=swift)](https://github.com/baekeunsun/github-readme-stats)
-
-   ### 🏆 my github stats
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekeunsun&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-   
-   #
-   ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=eunsun5460&theme=ffe4e1)
    
 
 </div>
